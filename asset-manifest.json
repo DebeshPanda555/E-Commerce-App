@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-App/static/css/main.2c9f85c1.css",
+    "main.js": "/E-Commerce-App/static/js/main.f2746191.js",
+    "static/js/453.8c770131.chunk.js": "/E-Commerce-App/static/js/453.8c770131.chunk.js",
+    "static/media/nike-air-max-pulse-outdoor-09-22259853-main.jpg.webp": "/E-Commerce-App/static/media/nike-air-max-pulse-outdoor-09-22259853-main.jpg.25406dedc0f4946bfc0b.webp",
+    "static/media/iPhone-15-Pro-Lineup-Feature.jpg": "/E-Commerce-App/static/media/iPhone-15-Pro-Lineup-Feature.e2af52c69277bc075588.jpg",
+    "static/media/table.jpeg": "/E-Commerce-App/static/media/table.a189a0a665091f8fbba1.jpeg",
+    "static/media/chair.png.webp": "/E-Commerce-App/static/media/chair.png.fe6f03370cb1ffa1d36c.webp",
+    "index.html": "/E-Commerce-App/index.html",
+    "main.2c9f85c1.css.map": "/E-Commerce-App/static/css/main.2c9f85c1.css.map",
+    "main.f2746191.js.map": "/E-Commerce-App/static/js/main.f2746191.js.map",
+    "453.8c770131.chunk.js.map": "/E-Commerce-App/static/js/453.8c770131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9f85c1.css",
+    "static/js/main.f2746191.js"
+  ]
+}
