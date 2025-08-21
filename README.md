@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+This is a comprehensive, full-featured front-end for an e-commerce platform, built from the ground up to showcase a rich, interactive user journey.
+Beyond a seamless, fully responsive shopping experience with user auth, a dynamic cart, and multi-step checkout, I integrated three unique, business-focused features:
+
+🔄 Resell/Swap Marketplace: Empowers users to become sellers, listing their past purchases and building a circular economy right within the platform. Includes a simulated AI quality check for listings.
+
+💰 Dynamic Pricing & Price Lock: An AI-driven "Smart Buy Indicator" gives users real-time price predictions. The "Price Lock" feature allows them to secure a price for a small, refundable fee, a powerful tool to drive conversions.
+
+📍 Live Pincode & Delivery API: Provides real-time delivery validation and area name detection for any pincode in India.
+
+Tech Stack & Skills Demonstrated:
+Core Technologies: React.js, Tailwind CSS, JavaScript (ES6+)
+
+Animations & UI: Framer Motion, Lucide React
+Key Skills: Front-End Development, UI/UX Implementation, State Management (React Context), Responsive Web Design, API Integration, Component-Based Architecture.
+
+What's next? The Node.js, Express, and MongoDB backend is currently in development and will be deployed soon to make this a truly full-stack application. Stay tuned!
